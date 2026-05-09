@@ -7,7 +7,7 @@ export default function Home({ onNavigate }) {
         <div className="max-w-7xl mx-auto px-4 py-20 sm:py-32">
           <div className="lg:grid lg:grid-cols-2 lg:gap-8">
             <div className="max-w-xl">
-              <h1 className="text-4xl font-extrabold text-gray-900">Parmicy Management</h1>
+              <h1 className="text-4xl font-extrabold text-gray-900">Pharmacy Management</h1>
               <p className="mt-4 text-gray-600">Centralize permission management, simplify access control, and improve security for your apps and teams.</p>
               <div className="mt-8 flex gap-3">
                 <button onClick={() => onNavigate('register')} className="px-6 py-3 bg-indigo-600 text-white rounded-lg">Get Started</button>
@@ -34,7 +34,7 @@ export default function Home({ onNavigate }) {
       </section>
       <section className="bg-gray-50 py-12">
         <div className="max-w-7xl mx-auto px-4">
-          <h2 className="text-2xl font-bold text-gray-900">Why choose Parmicy?</h2>
+          <h2 className="text-2xl font-bold text-gray-900">Why choose Pharmacy?</h2>
           <div className="mt-6 grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="p-6 bg-white rounded-lg shadow">
               <h3 className="font-semibold">Simple</h3>

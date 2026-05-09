@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 
 const items = [
-  { q: 'What is Parmicy?', a: 'Parmicy is a permission management system for apps and teams.' },
+  { q: 'What is Pharmacy?', a: 'Pharmacy is a permission management system for apps and teams.' },
   { q: 'Can I integrate with my auth provider?', a: 'Yes — you can connect common identity providers.' },
   { q: 'Is there an audit log?', a: 'Yes, changes and events are recorded for auditing.' },
 ]
